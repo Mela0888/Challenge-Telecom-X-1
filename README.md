@@ -29,7 +29,9 @@ Es un desafío para recopilar, procesar y analizar los datos, utilizando Python 
 <h2>Características de la aplicación del proyecto</h2>
 
 ## :hammer:Características
-- `Característica 1`: descripción de la funcionalidad 1- `Característica 2`: descripción de la funcionalidad 2- `Característica 3`: descripción de la funcionalidade 2a relacionada con
+- `Característica 1`: descripción de la funcionalidad 1
+- `Característica 2`: descripción de la funcionalidad 2
+- `Característica 3`: descripción de la funcionalidade 2a relacionada con
 
 <h2>Persona desalloradora del proyecto</h2>
 
