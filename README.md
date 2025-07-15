@@ -1,6 +1,6 @@
 <h1 align = "center"> Challengen TelecomX </h1>
 
-##Índice
+<h1>Índice</h1>
 *[Título de Proyecto](#Título-de-Proyecto)
 *[Índice](#Índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
