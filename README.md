@@ -22,6 +22,6 @@ Es un desafío para recopilar, procesar y analizar los datos, utilizando Python 
 
 <h2>Estado del pryecto</h2>
 
-<h4 align="center">
+<h3 align="center">
 :checkered_flag: Proyecto concluído :checkered_flag:
-</h4>
+</h3>
