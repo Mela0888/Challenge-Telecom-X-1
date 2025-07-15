@@ -30,6 +30,8 @@ Es un desafío para recopilar, procesar y analizar los datos, utilizando Python 
 
 <h2>Persona desalloradora del proyecto</h2>
 
+Pamela Arroyo Castro
+
 <h2>Conclusión</h2>
 Este código genera un papel de visualizaciones diseñado para revelar insights clave sobre el comportamiento del Churn(abandono clientes) en relación con diferentes variables del dataset.
 
