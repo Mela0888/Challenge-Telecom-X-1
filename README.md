@@ -28,10 +28,10 @@ Es un desafío para recopilar, procesar y analizar los datos, utilizando Python 
 
 <h2>Características de la aplicación del proyecto</h2>
 
-## :hammer:Características
-- `Característica 1`: descripción de la funcionalidad 1
-- `Característica 2`: descripción de la funcionalidad 2
-- `Característica 3`: descripción de la funcionalidade 2a relacionada con
+## :slot_machine:Características
+- `Característica 1`: contiene la información para tomar decisiones sobre el nivel de abandono de los planes por parte de los clientes.
+- `Característica 2`: fácil interpretación de los códigos utilizados.
+- `Característica 3`: contenido importante para verificar la cantidad de población y sus intereses para adquirir el producto.
 
 <h2>Persona desalloradora del proyecto</h2>
 
